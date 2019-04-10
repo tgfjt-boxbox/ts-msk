@@ -1,6 +1,8 @@
 import * as styledComponents from 'styled-components'
 import theme from './theme'
 
+console.log('theme:', theme)
+
 const {
   default: styled,
   css,
